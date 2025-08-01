@@ -1,0 +1,127 @@
+[
+  {
+    "keywords": ["hi", "hello", "hey", "heyy", "heya"],
+    "reply": "Hello! How are you feeling today?",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["sad", "depressed", "unhappy", "miserable"],
+    "reply": "I'm sorry you're feeling that way. Want to talk about it?",
+    "emotion": "sad"
+  },
+  {
+    "keywords": ["happy", "joyful", "delighted", "excited"],
+    "reply": "That's awesome to hear! Happiness is contagious 😊",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["angry", "frustrated", "mad", "irritated"],
+    "reply": "It's okay to feel angry sometimes. Want to vent about it?",
+    "emotion": "angry"
+  },
+  {
+    "keywords": ["anxious", "worried", "nervous", "uneasy", "panicked"],
+    "reply": "Deep breaths. I'm here with you. Want to talk about what's on your mind?",
+    "emotion": "nervous"
+  },
+  {
+    "keywords": ["lonely", "alone", "isolated", "abandoned"],
+    "reply": "You’re not alone. I'm here to chat with you anytime 💙",
+    "emotion": "lonely"
+  },
+  {
+    "keywords": ["tired", "exhausted", "drained", "sleepy"],
+    "reply": "You’ve been doing a lot. Make sure to rest and take care of yourself.",
+    "emotion": "tired"
+  },
+  {
+    "keywords": ["confused", "lost", "uncertain", "unsure"],
+    "reply": "That sounds tough. Can I help you figure it out?",
+    "emotion": "confused"
+  },
+  {
+    "keywords": ["thank you", "thanks", "ty", "thx"],
+    "reply": "You're most welcome! I'm always here to help 😊",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["love", "loved", "affection", "care"],
+    "reply": "That’s beautiful! Love is such a powerful emotion 💖",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["hate", "dislike", "loathe"],
+    "reply": "That sounds strong. Want to talk about what made you feel this way?",
+    "emotion": "angry"
+  },
+  {
+    "keywords": ["scared", "afraid", "fear", "terrified"],
+    "reply": "It’s okay to feel scared. I'm here with you. Want to share what’s scaring you?",
+    "emotion": "nervous"
+  },
+  {
+    "keywords": ["bored", "boring", "nothing to do"],
+    "reply": "Boredom strikes! Want to try something creative or chat more?",
+    "emotion": "neutral"
+  },
+  {
+    "keywords": ["cry", "crying", "tears", "weeping"],
+    "reply": "Let those emotions out. I’m here to listen and support you 💧",
+    "emotion": "sad"
+  },
+  {
+    "keywords": ["okay", "fine", "alright"],
+    "reply": "Just okay? I'm here if you want to talk more deeply.",
+    "emotion": "neutral"
+  },
+  {
+    "keywords": ["good", "great", "awesome", "fantastic"],
+    "reply": "That’s great to hear! Keep the good vibes going! 🌟",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["bad", "terrible", "horrible", "worst"],
+    "reply": "I’m so sorry to hear that. What happened?",
+    "emotion": "sad"
+  },
+  {
+    "keywords": ["motivate", "motivation", "inspire", "encourage"],
+    "reply": "You’ve got this! Every small step counts. Keep moving forward 💪",
+    "emotion": "encouraging"
+  },
+  {
+    "keywords": ["fail", "failure", "flop"],
+    "reply": "Failure is a stepping stone to success. Don’t give up!",
+    "emotion": "supportive"
+  },
+  {
+    "keywords": ["success", "win", "achievement", "victory"],
+    "reply": "Congrats! Celebrate every win, big or small 🎉",
+    "emotion": "happy"
+  },
+  {
+    "keywords": ["hurt", "pain", "heartbroken", "broken"],
+    "reply": "I'm really sorry you're feeling this pain. You can talk to me anytime.",
+    "emotion": "sad"
+  },
+  {
+    "keywords": ["panic", "attack", "overwhelmed"],
+    "reply": "Pause and breathe. You're not alone. I'm right here with you.",
+    "emotion": "nervous"
+  },
+  {
+    "keywords": ["support", "help", "assist", "guidance"],
+    "reply": "I’m here to support you. Tell me what you need 💬",
+    "emotion": "neutral"
+  },
+  {
+    "keywords": ["bye", "goodbye", "see you", "later"],
+    "reply": "Take care! Come back anytime you want to talk 👋",
+    "emotion": "neutral"
+  },
+  {
+    "keywords": ["friend", "friends", "friendship"],
+    "reply": "Friendship is precious. I'm glad we’re chatting 😊",
+    "emotion": "happy"
+  }
+]
